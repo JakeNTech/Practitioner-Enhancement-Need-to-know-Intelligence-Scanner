@@ -1,5 +1,6 @@
 # forensic_analysis_with_OSINT
 A tool to compare a disk image/file set to a known "clean" set with options to check unknown files on VirusTotal and AlienVault OTX.
+This was a tool created as part of the final project (dissertation) for BSc (Hons) Forensic Computing and Security at Bournemouth University.
 
 ## Features
 -   REG file type detection
