@@ -1,0 +1,19 @@
+{
+        "SOFTWARE":{
+                "Microsoft\\Windows\\CurrentVersion\\Run":[],
+                "Microsoft\\Windows\\CurrentVersion\\RunOnce":[],
+                "Microsoft\\Windows NT\\CurrentVersion":["ProductName","RegisteredOwner","InstallTime","CompositionEditionID","CurrentBuild"],
+                "Microsoft\\Windows NT\\CurrentVersion\\ProfileList":[]
+        },
+        "SYSTEM":{
+                "ControlSet001\\Control\\ComputerName\\ComputerName":["ComputerName"],
+                "ControlSet001\\Control\\TimeZoneInformation":["TimeZoneKeyName"]
+        },
+        "NTUSER":{
+            "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run":[],
+            "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RunMRU":[],
+            "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\TypedPaths":[],
+            "SOFTWARE\\Microsoft\\Internet Explorer\\TypedURLs":[]
+        }
+
+}

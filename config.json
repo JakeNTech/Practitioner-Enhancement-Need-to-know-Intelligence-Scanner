@@ -1,0 +1,17 @@
+{
+    "virus_total":{
+        "API_key":"<KEY>",
+        "timeout":16,
+        "lookup_limit":500
+    },
+    "alien_vault_otx":{
+        "API_key":"<KEY>"
+    },
+    "bing_maps":{
+        "API_key":"<KEY>"
+    },
+    "tool_paths":{
+        "arsenal_image_mounter":"C:\\command_line_tools\\Arsenal-Image-Mounter_v3.9.235\\aim_cli.exe",
+        "photo_rec":"C:\\command_line_tools\\testdisk-7.2-WIP\\photorec_win.exe"
+    }
+}

@@ -1,0 +1,11 @@
+hachoir
+tinytag
+python-registry
+exif
+biplist
+func_timeout
+python-magic-bin
+psutil
+requests
+python-dateutil
+pytz
